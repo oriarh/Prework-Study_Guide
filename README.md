@@ -18,6 +18,6 @@ You can also access the DevTools console to see the Javascript running at the ba
 
 N/A
 
-## Liscense
+## License
 
 MIT Liscense
