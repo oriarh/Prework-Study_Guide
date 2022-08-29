@@ -2,7 +2,7 @@
 
 ## Description
 
-As I embark on my coding journey, I am motivated to complete all my tasks to the best of my ability. Hence, I wanted this project's every aspect to be the best. This project is designed to help students navigate easily through the contents of this bootcamp and what they have learned. It helps put all the information into one place so that it is accessable as and when needed. 
+As I embark on my coding journey, I am motivated to complete all my tasks to the best of my ability. Hence, I wanted this project's every aspect to be the best. It is designed to help students navigate easily through the contents of this bootcamp and what they have learned. It helps put all the information into one place so that it is accessible when needed. 
 
 ## Installation
 
@@ -18,6 +18,6 @@ You can also access the DevTools console to see the Javascript running at the ba
 
 N/A
 
-## Liscense
+## License
 
 MIT Liscense
